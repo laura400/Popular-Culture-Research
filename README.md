@@ -13,17 +13,17 @@ This paper is an 8000-word Film Research Analysis on Popular Culture. The Aim of
 In order to better discuss Sleeping Beauty (1959) and Maleficient(2014), I use the following methods, where corresponding tools are also mentioned as below.
 1. Plot Analysis,
 2. Narrative Analysis
-  1. 5-Parts analysis: exposition, rising action,climax, falling action, whether end with a satisfactory resolution
-  2. Triangle figure Analysis
-  3. Scene analysis
+    1. 5-Parts analysis: exposition, rising action,climax, falling action, whether end with a satisfactory resolution
+    2. Triangle figure Analysis
+    3. Scene analysis
 3. Cinemetrics (shot analysis)
-  There is a useful tool through this [website](http://www.cinemetrics.lv/index.php) for the facts like maximun shot length, median shot length and so on to analyze the complexity of films. Besides, you can also analyze these facts by yourselves.
+    There is a useful tool through this [website](http://www.cinemetrics.lv/index.php) for the facts like maximun shot length, median shot length and so on to analyze the complexity of films. Besides, you can also analyze these facts by yourselves.
 4. Character Analysis	  
-  1. character role analysis  
-  2. character personality analysis  
-  3. character network analysis  
-  There is also a powerful technical tool called NetDraw, which can be downloaded through the [link](https://sites.google.com/site/netdrawsoftware/download) to represent the relationship between characters and their roles in figure-level form according to the inputs and requirements.  
-  You need to input the relationship and its property between each two characters and then you can choose the certain kind of analysis such as basic anaysis, degree analysis or closeness analysis for detailed presentation of relationships.  
+    1. character role analysis  
+    2. character personality analysis  
+    3. character network analysis  
+    There is also a powerful technical tool called NetDraw, which can be downloaded through the [link](https://sites.google.com/site/netdrawsoftware/download) to represent the relationship between characters and their roles in figure-level form according to the inputs and requirements.  
+    You need to input the relationship and its property between each two characters and then you can choose the certain kind of analysis such as basic anaysis, degree analysis or closeness analysis for detailed presentation of relationships.  
 5. Marketing Strategy Analysis
 
 ## Bibliography  
